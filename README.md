@@ -1,5 +1,10 @@
 # Core-Java-Programs
 All the programs I have worked on pertain to the Java programming language.
+
+## 🎯 Purpose
+This repository helps me maintain consistency in practicing Java daily. 
+It serves as a personal knowledge hub where I store solutions I have written and can revisit anytime for interview preparation or future Java projects.
+
 ## 📂 Repository Structure
 | Folder            | Description |
 |------------------|-------------|
